@@ -46,7 +46,17 @@
                         break;
                     case 5:
                         Console.WriteLine("Calcular la serie de fibonacci de un número ingresado por el usuario");
-                        Console.WriteLine("Ej.Fibonacci de 5 es : 0  1  1  2  3");
+                        byte n;
+                        uint fib=0,fib2=1,r;
+                        Console.WriteLine("Ingrese un numero del 1 - 255");
+                        n = Convert.ToByte(Console.ReadLine());
+                        for (int i = 0; i <= n; i++)
+                        {
+                            Console.Write($"{fib} ");
+                            r = fib;
+                            fib += fib2;
+                            fib2 = r;
+                        }
                         break;
                     case 6:
                         Console.WriteLine("Derechos reservados!\nGracias por usar el programa");
