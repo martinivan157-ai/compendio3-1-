@@ -26,8 +26,12 @@
                     case 1:
                         Console.WriteLine("Leer un número entero obtenido al lanzar un dado de seis caras");
                         Console.WriteLine("e imprimir el número en letras de la cara opuesta ");
-                        Console.WriteLine("En las caras opuestas de un dadoe estan los números 1-6 /2-6/3-4");
+                        Console.WriteLine("En las caras opuestas de un dado están los números 1-6 /2-5/3-4");
                         Console.WriteLine("Si el número capturado en menor a 1 o mayor que 6 mostrará el mensaje de error");
+
+
+
+                        
                         break;
                     case 2:
                         Console.WriteLine("Mostrar los múltiples de 7 entre el 0 y 150");
