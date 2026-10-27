@@ -1,0 +1,15 @@
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\bin\Debug\net10.0\Ciclos1.exe
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\bin\Debug\net10.0\Ciclos1.deps.json
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\bin\Debug\net10.0\Ciclos1.runtimeconfig.json
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\bin\Debug\net10.0\Ciclos1.dll
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\bin\Debug\net10.0\Ciclos1.pdb
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\obj\Debug\net10.0\Ciclos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\obj\Debug\net10.0\Ciclos1.AssemblyInfoInputs.cache
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\obj\Debug\net10.0\Ciclos1.AssemblyInfo.cs
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\obj\Debug\net10.0\Ciclos1.csproj.CoreCompileInputs.cache
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\obj\Debug\net10.0\Ciclos1.dll
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\obj\Debug\net10.0\refint\Ciclos1.dll
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\obj\Debug\net10.0\Ciclos1.pdb
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\obj\Debug\net10.0\Ciclos1.genruntimeconfig.cache
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\obj\Debug\net10.0\ref\Ciclos1.dll
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\Ciclos1\Ciclos1\obj\Debug\net10.0\Ciclos1.csproj.Up2Date
