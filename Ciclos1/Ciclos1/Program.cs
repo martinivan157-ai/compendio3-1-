@@ -28,10 +28,21 @@
                         Console.WriteLine("e imprimir el número en letras de la cara opuesta ");
                         Console.WriteLine("En las caras opuestas de un dado están los números 1-6 /2-5/3-4");
                         Console.WriteLine("Si el número capturado en menor a 1 o mayor que 6 mostrará el mensaje de error");
-
-
-
-                        
+     Console.WriteLine("Leer un número entero obtenido al lanzar un dado de seis caras");
+                        Console.WriteLine("e imprimir el número en letras de la cara opuesta ");
+                        Console.WriteLine("En las caras opuestas de un dado están los números 1-6 /2-5/3-4");
+                        Console.WriteLine("Si el número capturado es menor a 1 o mayor que 6 mostrará el mensaje de error");
+                        byte caraDado=0, caraOp=0;
+                        Console.WriteLine("Ingrese el número de la cara del dado");
+                        caraDado= convert.ToByte(Console.Readline());
+                       if (caraDado>=1 && <=6)
+                       {
+                        caraOp=7-caraDado;
+                       }    
+                        else
+                        {
+                            Console.WriteLine("Error: el dado solo tiene números del 1 al 6");
+                        }       
                         break;
                     case 2:
                         Console.WriteLine("Mostrar los múltiples de 7 entre el 0 y 150");
