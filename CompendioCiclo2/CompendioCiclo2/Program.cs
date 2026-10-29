@@ -15,10 +15,10 @@
                     "\n4.- Cantidad de ceros" +
                     "\n5.- Sucesion de Ulam" +
                     "\n6.- Cantidad de Positivos y Negativos" +
-                    "\n7.-" +
-                    "\n8.-" +
-                    "\n9.-" +
-                    "\n10.-");
+                    "\n7.- Velocidad pelota" +
+                    "\n8.- Numero perfecto" +
+                    "\n9.- Factorial" +
+                    "\n10.- Coordenadas");
 
                 Console.Write("\nOpción: ");
                 op = Convert.ToByte(Console.ReadLine());
