@@ -86,7 +86,7 @@
                 Console.ReadKey();
                 Console.Clear();
             } while (op <= 5 || op>6);
-            Console.WriteLine("Hecho por: Rodrigo Palomares Sanchez");
+            Console.WriteLine("Hecho por: Rodrigo Palomares Sanchez y Martín Iván Rodríguez Manriquez");
         }
     }
 }
