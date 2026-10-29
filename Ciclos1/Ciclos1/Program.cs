@@ -45,7 +45,13 @@
                         
                     case 2:
                         Console.WriteLine("Mostrar los múltiples de 7 entre el 0 y 150");
-                        
+                           int i = 7;
+                   while (i<150)
+                   {
+                       Console.WriteLine(i);
+                       i += 7;
+                   }
+
                         break;
                     case 3:
                         Console.WriteLine("Sumar un conjunto de números hasta que la suma sea mayor que 100");
