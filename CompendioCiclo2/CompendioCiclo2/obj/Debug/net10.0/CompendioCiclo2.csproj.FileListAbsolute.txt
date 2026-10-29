@@ -1,0 +1,15 @@
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\bin\Debug\net10.0\CompendioCiclo2.exe
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\bin\Debug\net10.0\CompendioCiclo2.deps.json
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\bin\Debug\net10.0\CompendioCiclo2.runtimeconfig.json
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\bin\Debug\net10.0\CompendioCiclo2.dll
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\bin\Debug\net10.0\CompendioCiclo2.pdb
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\obj\Debug\net10.0\CompendioCiclo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\obj\Debug\net10.0\CompendioCiclo2.AssemblyInfoInputs.cache
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\obj\Debug\net10.0\CompendioCiclo2.AssemblyInfo.cs
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\obj\Debug\net10.0\CompendioCiclo2.csproj.CoreCompileInputs.cache
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\obj\Debug\net10.0\CompendioCiclo2.dll
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\obj\Debug\net10.0\refint\CompendioCiclo2.dll
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\obj\Debug\net10.0\CompendioCiclo2.pdb
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\obj\Debug\net10.0\CompendioCiclo2.genruntimeconfig.cache
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\obj\Debug\net10.0\ref\CompendioCiclo2.dll
+C:\Users\Rodo\Documents\Trabajos\Fundamentos Programación\Codigos\C#\CompendioCiclo2\CompendioCiclo2\obj\Debug\net10.0\Compendi.ED876D47.Up2Date

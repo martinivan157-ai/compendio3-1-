@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CompendioCiclo2/1.0.0": {
+        "runtime": {
+          "CompendioCiclo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompendioCiclo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
