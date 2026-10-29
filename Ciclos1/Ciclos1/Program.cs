@@ -28,63 +28,31 @@
                         Console.WriteLine("e imprimir el número en letras de la cara opuesta ");
                         Console.WriteLine("En las caras opuestas de un dado están los números 1-6 /2-5/3-4");
                         Console.WriteLine("Si el número capturado en menor a 1 o mayor que 6 mostrará el mensaje de error");
-                        Console.WriteLine("Leer un número entero obtenido al lanzar un dado de seis caras");
-                        Console.WriteLine("e imprimir el número en letras de la cara opuesta ");
-                        Console.WriteLine("En las caras opuestas de un dado están los números 1-6 /2-5/3-4");
-                        Console.WriteLine("Si el número capturado es menor a 1 o mayor que 6 mostrará el mensaje de error");
-                        byte caraDado=0, caraOp=0;
+                        int caraDado = 0;
                         Console.WriteLine("Ingrese el número de la cara del dado");
-                        caraDado= convert.ToByte(Console.Readline());
-                       if (caraDado>=1 && <=6)
-                       {
-                        caraOp=7-caraDado;
-                       }    
-                        else
+                        caraDado = Convert.ToInt16(Console.ReadLine());
+                        if (caraDado >= 1 && caraDado <= 6)
                         {
-                            Console.WriteLine("Error: el dado solo tiene números del 1 al 6");
-                        }       
+                          int  caraOp = 7 - caraDado;
+                          Console.WriteLine("la cara opuesta es:" +caraOp);
+                        }
+                         else
+                         {
+                             Console.WriteLine("Error: el dado solo tiene números del 1 al 6");
+                         }
                         break;
+
+                        
                     case 2:
                         Console.WriteLine("Mostrar los múltiples de 7 entre el 0 y 150");
                         
                         break;
                     case 3:
                         Console.WriteLine("Sumar un conjunto de números hasta que la suma sea mayor que 100");
-                        short suma=0, num;
-                        do
-                        {
-                            Console.WriteLine("Ingrese un numero");
-                            num = Convert.ToByte(Console.ReadLine());
-                            suma += num;
-                            Console.WriteLine($"La suma es de {suma}");
-                        } while (suma <= 100);
-                        Console.WriteLine("La suma ha superado el 100");
                         break;
                     case 4:
                         Console.WriteLine("Sumar los números pares y multiplicar los impares, hasta que la suma sea mayor que 50");
                         Console.WriteLine("o el producto mayor que 150");
-                        //Declaracion de variables
-                        int sumaPares = 0, productoImpares = 1, n;
-                        bool impar = false;
-                        //Entrada de datos
-                        while (sumaPares <= 50 && productoImpares <= 150)
-                        {
-                        
-                            Console.WriteLine("Introduzca un numero");
-                            n = Convert.ToInt16(Console.ReadLine());
-                        
-                            if (n % 2 == 0)
-                            {
-                                sumaPares += n;
-                            }
-                            else
-                            {
-                                productoImpares *= n;
-                                impar = true;
-                            }
-                            Console.WriteLine($"Suma de Pares {sumaPares} || Producto Impares {(impar ? productoImpares : 0)}");
-                        
-                        }
                         break;
                     case 5:
                         Console.WriteLine("Calcular la serie de fibonacci de un número ingresado por el usuario");
